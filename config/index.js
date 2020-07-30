@@ -1,5 +1,5 @@
 const config = {
-  PORT: 3000,
+  PORT: process.env.API_PORT || 3005,
 };
 
 module.exports = config;
