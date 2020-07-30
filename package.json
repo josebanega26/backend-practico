@@ -1,0 +1,26 @@
+{
+  "name": "backend-practico",
+  "version": "1.0.0",
+  "description": "Curso practico de backend con express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebanega26/backend-practico.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Jose Banega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josebanega26/backend-practico/issues"
+  },
+  "homepage": "https://github.com/josebanega26/backend-practico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
